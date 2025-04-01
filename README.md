@@ -6,7 +6,7 @@
   - **Database:** PostgreSQL, MySQL, MongoDB
   - **Version Control:** Git, GitHub, GitLab
 
-- ☎️📞**Contact** 
+- ☎️**Contact**📞
   - 🌐 Portfolio: hilqia-kenda.netlify.app
   - 📍 Location: Kampala, Uganda
   
