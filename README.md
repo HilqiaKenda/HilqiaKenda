@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @HilqiaKenda
-  
-<!---
-HilqiaKenda/HilqiaKenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Tech Skills
+**Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Chakra UI, Bootstrap, Sass
+**Backend:** Python, Django
+**Database:** PostgreSQL, MySQL, MongoDB
+Version Control: Git, GitHub, GitLab
+
+Contact 
+🌐 Portfolio: hilqia-kenda.netlify.app
+📍 Location: Kampala, Uganda
+
+Feel free to check out my projects and reach out if you'd like to collaborate! 🚀
+
