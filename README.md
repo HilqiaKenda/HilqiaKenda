@@ -7,8 +7,8 @@
   - **Version Control:** Git, GitHub, GitLab
 
 - ☎️📞**Contact** 
-  -🌐 Portfolio: hilqia-kenda.netlify.app
-  -📍 Location: Kampala, Uganda
+  - 🌐 Portfolio: hilqia-kenda.netlify.app
+  - 📍 Location: Kampala, Uganda
   
 Feel free to check out my projects and reach out if you'd like to collaborate! 🚀
 
