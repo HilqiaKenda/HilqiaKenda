@@ -4,7 +4,7 @@
   - **🔒🌐Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Chakra UI, Bootstrap, Sass
   - **⚙️🛠️Backend:** Python, Django
   - **⚓🖥Database:** PostgreSQL, MySQL, MongoDB
-  - **Version Control:** Git, GitHub, GitLab
+  - **🚦🚥Version Control:** Git, GitHub, GitLab
   - **📦🖥️Containerization & Caching:** Docker, Redis
 
 - ☎️**Contact**📞
