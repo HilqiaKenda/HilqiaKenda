@@ -1,4 +1,4 @@
-#👋 Hi, I’m @HilqiaKenda
+# 👋 Hi, I’m @HilqiaKenda
 
  ## 👨‍💻Tech🧑‍💻Skills💻
   - **🔒🌐Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Chakra UI, Bootstrap, Sass
