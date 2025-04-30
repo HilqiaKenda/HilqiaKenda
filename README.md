@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I’m @HilqiaKenda<br><br> 
+## 👋 Hi, I’m HilqiaKenda<br><br> 
 ## 👨‍💻**Tech🧑‍💻Skills💻**<br>  
 - **🔒🌐Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Chakra UI, Bootstrap, Sass<br>
 - **⚙️🛠️Backend:** Python, Django<br>
